@@ -46,6 +46,7 @@ Hobbies ⚡: ["Foreign Languages"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original-wordmark.svg" alt="hadoop" width="30" height="30"/>          
 </p>
 
+---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngzxzxzx&layout=compact)
 
